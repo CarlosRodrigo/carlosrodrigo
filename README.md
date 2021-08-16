@@ -8,8 +8,8 @@
 <div>
   <a href="https://github.com/carlosrodrigo">
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=carlosrodrigo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrodrigo&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosrodrigo&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrodrigo&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
     
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosrodrigo&theme=vision-friendly-dark" alt="carlosrodrigo" />
   <img height="200em" src="https://github-profile-trophy.vercel.app/?username=carlosrodrigo&theme=onedark&row=2&column=3&no-bg=true"/>
