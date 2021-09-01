@@ -5,6 +5,14 @@
 
 🌱 **Learning**: Flutter
 
+I'm a Software Engineer focusing on mobile development with Android.
+
+Passionate about designing and building apps that look awesome and also have a great scalable architecture ranging from mvc, mvp, mvvm and clean architecture.
+
+I also enjoy automating tasks and have experience building CI/CD pipelines for Android applications including lint checks, running unit tests, custom Gradle tasks to automate the app version updates, app distribution via Firebase, instrumented tests with firebase test lab, etc.
+
+Particularly interested in architecture and design patterns, continuous integration and delivery, new technologies and agile methodologies.
+
 <div>
   <a href="https://github.com/carlosrodrigo">
 
